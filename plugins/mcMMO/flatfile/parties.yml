@@ -1,0 +1,16 @@
+majoramari:
+  Leader: 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari
+  Locked: true
+  Level: 8
+  Xp: 959
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari

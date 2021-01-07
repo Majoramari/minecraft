@@ -1,0 +1,65 @@
+#  ____  ____  ____  ____  _____ ____  ____  ____  ____  ____
+# / ___\/   _\/  _ \/  __\/  __//  _ \/  _ \/  _ \/  __\/  _ \
+# |    \|  /  | / \||  \/||  \  | | //| / \|| / \||  \/|| | \|
+# \___ ||  \_ | \_/||    /|  /_ | |_\\| \_/|| |-|||    /| |_/|
+# \____/\____/\____/\_/\_\\____\\____/\____/\_/ \|\_/\_\\____/
+#
+# Scoreboard-r by Rien Bijl
+# rep: github : RienBijl/Scoreboard-revision
+# v: 1.4.2 RELEASE
+
+settings:
+  # Safe-mode determines if scoreboard is synchronized with the server (true) or asynchronized (false)
+  # Synchronized (safe-mode: true) is more stable and robust
+  # Asynchronized (safe-mode: false) is more faster but can cause strange problems in some cases
+  safe-mode: true
+  # If the server version is 1.13 or higher, enable longline.
+  # true: you can use 128 characters per line (1.13 and up)
+  # false: you can use 32 characters per line (1.12 and down)
+  longline: true
+
+# In what worlds should we disable scoreboard?
+disabled-worlds:
+  - 'non_existant_world'
+
+board:
+  title:
+    liner:
+      - '&cBalance: &2$%vault_eco_balance_commas%'
+  rows:
+    1:
+      liner:
+      - ''
+    3:
+      liner:
+      - '&cPing: &6%player_colored_ping%'
+    4:
+      liner:
+      - '&cBiome: &6%world_biome%'
+    5:
+      liner:
+      - ''
+    6:
+      liner:
+      - '&cPower: &6%mcmmo_power_level%'
+    7:
+      liner:
+      - '&cMining: &6%mcmmo_level_mining%'
+    8:
+      liner:
+      - '&cWoodcutting: &6%mcmmo_level_woodcutting%'
+    9:
+      liner:
+      - '&cRepaair: &6%mcmmo_level_repair%'
+    10:
+      liner:
+      - '&cExcavation: &6%mcmmo_level_excavation%'
+    11:
+      liner:
+      - '&cTaming: &6%mcmmo_level_taming%'
+    12:
+      liner:
+      - ''
+    13:
+      liner:
+      - '&6type /mcstats for more'
