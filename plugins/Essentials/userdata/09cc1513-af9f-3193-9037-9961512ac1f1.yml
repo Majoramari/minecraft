@@ -1,21 +1,21 @@
 lastAccountName: MajorAmari
 timestamps:
-  login: 1610014697449
-  logout: 1610015149348
-  lastteleport: 1610014705400
-ipAddress: 197.132.56.143
+  login: 1610021667061
+  logout: 1610024974003
+  lastteleport: 1610021508386
+ipAddress: 197.132.246.204
 lastlocation:
   world: world
-  x: 22.81020652262277
-  y: 80.0
-  z: -16.915470871455497
-  yaw: 144.28505
-  pitch: 18.3638
+  x: 48.30000001192093
+  y: 22.0
+  z: 96.50217154807588
+  yaw: 90.56506
+  pitch: 57.62722
 logoutlocation:
   world: world
-  x: -615.3239313873199
-  y: 64.0
-  z: -478.64624454755307
-  yaw: 277.92233
-  pitch: 13.296857
-money: '276.200249999999993'
+  x: -108.30000001192093
+  y: 88.0
+  z: -186.6687150320579
+  yaw: 22.746887
+  pitch: 23.180927
+money: '104.3297499999999915'

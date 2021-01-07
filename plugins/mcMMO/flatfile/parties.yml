@@ -1,8 +1,8 @@
-majoramari:
+Amari:
   Leader: 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari
   Locked: true
-  Level: 8
-  Xp: 959
+  Level: 6
+  Xp: 987
   Ally: ''
   ExpShareMode: NONE
   ItemShareMode: NONE
@@ -14,3 +14,4 @@ majoramari:
     MISC: true
   Members:
   - 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari
+  - b114c85c-3525-30c2-8b7f-756164f4bb55|YOUSSIF123

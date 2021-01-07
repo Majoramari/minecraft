@@ -1,0 +1,46 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&8[ &bPlayer&8 ] '
+    permissions:
+    - shopguiplus
+    - chestcleaner.clicksort
+    - chestcleaner.autorefill.blocks
+    - chestcleaner.autorefill.*
+    - simpletpa.tpdeny
+    - simpletpa.tpaccept
+    - simpletpa.simpletpa
+    - sellgui.dump
+    - sellgui.use
+    - simpletpa.tpa
+    - essentials.warp.list
+    - essentials.warp
+    - modifyworld.*
+  owner:
+    options:
+      prefix: '&6[ &2Creator&6 ] '
+    permissions:
+    - simpletpa.back
+    - simpletpa.tpahere
+    - simpletpa.tpdeny
+    - simpletpa.tpaccept
+    - simpletpa.simpletpa
+    - simpletpa.tpa
+    - sellgui.dump
+    - sellgui.use
+    - sellgui.sellgui
+    - OpenInv
+    - bukkit
+    - jobs
+    - minecraft
+    inheritance:
+    - default
+schema-version: 1
+users:
+  09cc1513-af9f-3193-9037-9961512ac1f1:
+    group:
+    - default
+    - owner
+    options:
+      name: MajorAmari
