@@ -5,7 +5,7 @@
 #
 
 # Whether or not to enable the voice module
-Voice enabled: false
+Voice enabled: true
 # Amount of ticks between network updates
 Tick speed: 5
 # The main category that the voice module will create/delete/move voice channels in

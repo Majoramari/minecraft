@@ -4,6 +4,7 @@ groups:
       default: true
       prefix: '&8[ &bPlayer&8 ] '
     permissions:
+    - skins
     - shopguiplus
     - chestcleaner.clicksort
     - chestcleaner.autorefill.blocks
