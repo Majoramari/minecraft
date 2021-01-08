@@ -35,7 +35,7 @@
 # giving players the angelchest.group.<groupname> permission. See
 # groups.example.yml for more information.
 # Default is 600 seconds = 10 minutes
-angelchest-duration: 300
+angelchest-duration: 600
 
 # The maximum amount of AngelChests a player may have at the same time.
 # If a player dies again so that they would exceed this number, the
@@ -43,11 +43,11 @@ angelchest-duration: 300
 # You can override this for certain players by setting up groups
 # and giving players the angelchest.group.<groupname> permission.
 # See groups.example.yml for more information.
-max-allowed-angelchests: 1
+max-allowed-angelchests: 2
 
 # You can disable spawning the AngelChest when a player has been killed by
 # another player. By default, the AngelChest will always spawn.
-allow-angelchest-in-pvp: true
+allow-angelchest-in-pvp: false
 
 # When the block where the player dies is not empty (e.g. water, lava, half slab)
 # we will search for an empty block inside max-radius. Default is 10 blocks.
@@ -72,7 +72,7 @@ show-links-on-separate-line: true
 # Tip: Try to avoid using blocks that break when the block below
 # is updated, like TORCH or SOUL_LANTERN because that could be
 # exploited by using pistons below that block
-material: CHEST
+material: SOUL_CAMPFIRE
 
 # When set to true and material is set to PLAYER_HEAD,
 # AngelChest will use the player's head for the chest.
@@ -139,7 +139,7 @@ check-interval: 4
 # How much does it cost to spawn the AngelChest? The amount will automatically
 # be taken from the player on death if they have enough money, otherwise
 # the chest will not spawn and the items drop normally
-price: 100
+price: 50
 
 # You can refund the price when a player does not to open their AngelChest
 # before it expires
@@ -149,7 +149,7 @@ refund-expired-chests: true
 price-teleport: 300
 
 # How much does it cost to teleport your AngelChests to you
-price-fetch: 300
+price-fetch: 100
 
 # When set to true, players must confirm actions that cost money by entering the same command again
 # or by clicking on a text message in the chat

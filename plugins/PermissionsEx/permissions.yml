@@ -32,6 +32,7 @@ groups:
     - essentials.warp.list
     - essentials.warp
     - modifyworld.*
+    - essentials.warps.*
   owner:
     options:
       prefix: '&6[ &2Creator&6 ] '
