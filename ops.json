@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "09cc1513-af9f-3193-9037-9961512ac1f1",
+    "name": "MajorAmari",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,62 @@
+# Permissions
+permissions:
+  reload: supremetpa.reload
+  tpa: supremetpa.tpa
+  tpahere: supremetpa.tpa
+  tp: supremetpa.tp
+  tphere: supremetpa.tp
+  settings: supremetpa.settings
+  toggled:
+    requests: supremetpa.toggle.requests
+    sound: supremetpa.toggle.sound
+    firework: supremetpa.toggle.firework
+
+# Messages
+
+usage:
+  tp: "&f/tp [player]"
+  tphere: "&f/tphere [player]"
+  tpa: "&f/tpa [player]"
+  tpahere: "&f/tpahere [player]"
+
+tp:
+  teleported: "&e&lTP &7| &fYou have been teleported to &e%target%"
+
+tphere:
+  teleported: "&e&lTP &7| &e%player% &fhas been teleported to your location"
+
+tpa:
+  sent: "&e&lTP &7| &fYou have sent a TPA request to &e%target%"
+  recieved: "&e&lTP &7| &fYou have recieved a TPA request from &e%player%"
+  recieved-tpahere: "&e&lTP &7| &fYou have recieved a TPA Here request from &e%player%"
+  accept: "&a&l[ACCEPT]"
+  or: " &for "
+  deny: "&c&l[DENY]"
+  accepted: "&e&lTP &7| &fYou have accepted the TPA request."
+  denied: "&e&lTP &7| &fYou have denied the TPA request."
+  player-accepted: "&e&lTP &7| &e%player% &fhas accepted your TPA request, teleporting in &e%time% &fseconds!" # If you disable the delay, remove after the comma as %time% will be disabled.
+  player-denied: "&e&lTP &7| &e%player% &fhas denied your TPA request"
+
+toggled:
+  requests:
+    incoming: "&e&lTP &7| &fThis player has TPA Requests &cdisabled&f!"
+    turned-on: "&e&lTP &7| &fYou have &aenabled &fyour Teleport Requests"
+    turned-off: "&e&lTP &7| &fYou have &cdisabled &fyour Teleport Requests"
+  sound:
+    turned-on: "&e&lTP &7| &fYou have &aenabled &fthe teleport sound"
+    turned-off: "&e&lTP &7| &fYou have &cdisabled &fthe teleport sound"
+  firework:
+    turned-on: "&e&lTP &7| &fYou have &aenabled &fthe teleport firework"
+    turned-off: "&e&lTP &7| &fYou have &cdisabled &fthe teleport firework"
+
+misc:
+  no-permission: "&4&lERROR! &cYou have no permission!"
+  offline: "&4&lERROR! &cThis player seems to be offline or doesn't exist"
+  no-requests: "&4&lERROR! &cYou have no requests right now!"
+  reloaded: "&e&lTP &7| &cConfiguartion Reloaded!"
+
+# Extra
+tp-delay:
+  enabled: true
+  delay: 5 # in seconds
+tpa-sound: ENTITY_ENDERMAN_TELEPORT

@@ -710,7 +710,7 @@ starting-balance: 100
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs, check the wiki for more information.
 command-costs:
-   warp: 100
+   warp: 65
    tpa: 50
   # /example costs $1000 PER USE
   #example: 1000

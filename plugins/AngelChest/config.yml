@@ -35,7 +35,7 @@
 # giving players the angelchest.group.<groupname> permission. See
 # groups.example.yml for more information.
 # Default is 600 seconds = 10 minutes
-angelchest-duration: 120
+angelchest-duration: 300
 
 # The maximum amount of AngelChests a player may have at the same time.
 # If a player dies again so that they would exceed this number, the
@@ -47,7 +47,7 @@ max-allowed-angelchests: 1
 
 # You can disable spawning the AngelChest when a player has been killed by
 # another player. By default, the AngelChest will always spawn.
-allow-angelchest-in-pvp: false
+allow-angelchest-in-pvp: true
 
 # When the block where the player dies is not empty (e.g. water, lava, half slab)
 # we will search for an empty block inside max-radius. Default is 10 blocks.
@@ -62,7 +62,7 @@ show-location: true
 
 # When set to true, the links in the chat for teleportation, fetching or unlocking
 # an AngelChest will be sent on a separate line
-show-links-on-separate-line: false
+show-links-on-separate-line: true
 
 # You can choose the Material to use for the AngelChest,
 # e.g. CHEST, ENDER_CHEST, OBSIDIAN, ...
@@ -72,7 +72,7 @@ show-links-on-separate-line: false
 # Tip: Try to avoid using blocks that break when the block below
 # is updated, like TORCH or SOUL_LANTERN because that could be
 # exploited by using pistons below that block
-material: SOUL_CAMPFIRE
+material: CHEST
 
 # When set to true and material is set to PLAYER_HEAD,
 # AngelChest will use the player's head for the chest.
@@ -113,7 +113,7 @@ totem-of-undying-works-everywhere: true
 auto-respawn: true
 
 # When auto-respawn is true, you can define a delay in seconds before the player is respawned.
-auto-respawn-delay: 5
+auto-respawn-delay: 1
 
 # Should we check for updates?
 # When enabled, a message is printed in the console if a new version has
@@ -146,10 +146,10 @@ price: 100
 refund-expired-chests: true
 
 # How much does it cost to teleport yourself to one of your AngelChests
-price-teleport: 600
+price-teleport: 300
 
 # How much does it cost to teleport your AngelChests to you
-price-fetch: 1000
+price-fetch: 300
 
 # When set to true, players must confirm actions that cost money by entering the same command again
 # or by clicking on a text message in the chat

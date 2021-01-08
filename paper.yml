@@ -205,7 +205,7 @@ world-settings:
       - NORMAL
       - HARD
     anti-xray:
-      enabled: true
+      enabled: false
       engine-mode: 2
       max-chunk-section-index: 3
       update-radius: 2

@@ -1,2 +1,70 @@
-chest: {}
-furnace: {}
+chest:
+  world,-347,64,490:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: '[]'
+  world,-347,64,491:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-347,64,489:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-347,64,488:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-347,64,492:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-347,64,486:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: '[]'
+  world,-415,91,551:
+    owner: e9d511f1-3cd2-3733-84f1-ab02b1ab172a
+    private: true
+    allowedPlayers: '[]'
+  world,-601,93,677:
+    owner: 09cc1513-af9f-3193-9037-9961512ac1f1
+    private: true
+    allowedPlayers: '[]'
+  world,-601,93,678:
+    owner: 09cc1513-af9f-3193-9037-9961512ac1f1
+    private: true
+    allowedPlayers: []
+  world,-416,91,551:
+    owner: e9d511f1-3cd2-3733-84f1-ab02b1ab172a
+    private: true
+    allowedPlayers: []
+  world,-347,63,488:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: '[]'
+furnace:
+  world,-174,69,312:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-266,47,242:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []
+  world,-413,91,551:
+    owner: e9d511f1-3cd2-3733-84f1-ab02b1ab172a
+    private: true
+    allowedPlayers: []
+  world,-415,46,620:
+    owner: e9d511f1-3cd2-3733-84f1-ab02b1ab172a
+    private: true
+    allowedPlayers: []
+  world,-412,91,551:
+    owner: e9d511f1-3cd2-3733-84f1-ab02b1ab172a
+    private: true
+    allowedPlayers: []
+  world,-341,64,491:
+    owner: eafd8d24-9a2f-36e8-9865-20beab362483
+    private: true
+    allowedPlayers: []

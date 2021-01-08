@@ -149,3 +149,11 @@ drops:
       buyPrice: 20
       sellPrice: 2
       slot: 32
+    18:
+      type: item
+      item:
+        material: EXPERIENCE_BOTTLE
+        quantity: 16
+      buyPrice: 100
+      sellPrice: 20
+      slot: 32

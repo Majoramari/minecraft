@@ -4,17 +4,31 @@ groups:
       default: true
       prefix: '&8[ &bPlayer&8 ] '
     permissions:
+    - angelchest.others
+    - angelchest.fetch
+    - angelchest.tp
+    - angelchest.xp.level
+    - angelchest.xp.levels
+    - angelchest.xp
+    - angelchest.protect.ignore
+    - angelchest.protect
+    - angelchest.use
+    - tpa.tpa
+    - tpa.tpaccept
+    - tpa.deny
+    - TradeSystem.Trade
+    - TradeSystem.Modify
+    - TradeSystem.Trade.Initiate
+    - trade
+    - chestlock.open
+    - chestlock.remove
     - skins
     - shopguiplus
     - chestcleaner.clicksort
     - chestcleaner.autorefill.blocks
     - chestcleaner.autorefill.*
-    - simpletpa.tpdeny
-    - simpletpa.tpaccept
-    - simpletpa.simpletpa
     - sellgui.dump
     - sellgui.use
-    - simpletpa.tpa
     - essentials.warp.list
     - essentials.warp
     - modifyworld.*
@@ -22,12 +36,12 @@ groups:
     options:
       prefix: '&6[ &2Creator&6 ] '
     permissions:
-    - simpletpa.back
-    - simpletpa.tpahere
-    - simpletpa.tpdeny
-    - simpletpa.tpaccept
-    - simpletpa.simpletpa
-    - simpletpa.tpa
+    - angelchest.reload
+    - at.member.tpa
+    - at.member.here
+    - at.member.yes
+    - at.member.no
+    - at.member.cancel
     - sellgui.dump
     - sellgui.use
     - sellgui.sellgui

@@ -1,13 +1,13 @@
-Amari:
+'#5ltk':
   Leader: 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari
   Locked: true
-  Level: 6
-  Xp: 1902
+  Level: 10
+  Xp: 1500
   Ally: ''
-  ExpShareMode: NONE
+  ExpShareMode: EQUAL
   ItemShareMode: NONE
   ItemShareType:
-    LOOT: true
+    LOOT: false
     MINING: true
     HERBALISM: true
     WOODCUTTING: true
@@ -15,3 +15,7 @@ Amari:
   Members:
   - 09cc1513-af9f-3193-9037-9961512ac1f1|MajorAmari
   - b114c85c-3525-30c2-8b7f-756164f4bb55|YOUSSIF123
+  - eafd8d24-9a2f-36e8-9865-20beab362483|x1azr
+  - f02337a4-a99f-3a7b-b70b-6c75a5aab8e9|mtiger8
+  - e9d511f1-3cd2-3733-84f1-ab02b1ab172a|5haledX
+  - 3942bb83-9c9c-3662-bf8d-3db4edc9b9b9|abodymnms
