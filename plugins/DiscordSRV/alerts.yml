@@ -47,6 +47,7 @@
 #
 # Syntax/defaults:
 #  - Trigger: <event name or /command>
+#    Async: true # optional, defaults to true, you should almost never have to change this
 #    Conditions:
 #      - property == < > <= >= value etc
 #    Channel: <discordsrv channel name>
@@ -75,7 +76,7 @@
 #        IconUrl: ""
 #      Timestamp: false # set to true to use the time the message was sent or use a epoch timestamp for a specific time (https://www.epochconverter.com/)
 #
-Alerts:
+Alerts: 
   # Example config to send messages to the "fish" DiscordSRV channel when a player successfully catches a fish
   #- Trigger: PlayerFishEvent
   #  Channel: fish

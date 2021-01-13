@@ -154,6 +154,6 @@ drops:
       item:
         material: EXPERIENCE_BOTTLE
         quantity: 16
-      buyPrice: 100
+      buyPrice: 300
       sellPrice: 20
       slot: 32

@@ -1,0 +1,27 @@
+AngelChest v2.21.0
+ChestCleaner v2.3.2
+ChestCommands v4.0.3
+ChestLock v0.0.1
+ClearLag v3.2.0
+DiscordSRV v1.21.1
+dynmap v3.1-beta6-438
+Essentials v2.18.2.0
+EssentialsChat v2.18.2.0
+EssentialsSpawn v2.18.2.0
+Harbor v1.6.3
+Jobs v4.17.0
+mcMMO v2.1.158
+MMOLib v1.7.4
+OpenInv v4.1.5
+PermissionsEx v1.23.5
+PexTabCompleter v1.3.0
+PlaceholderAPI v2.10.9
+PlugMan v2.1.7
+Scoreboard-revision vR3 1.4.2 RELEASE
+ShopGUIPlus v1.49.0
+ShopGUIPlus-SellGUI v1.0.8
+SkinsRestorer v13.8.6
+StackMob v5.4.1
+TradeSystem v1.2.1
+Vault v1.7.3-b131
+WorldBorder v1.9.10 (beta)

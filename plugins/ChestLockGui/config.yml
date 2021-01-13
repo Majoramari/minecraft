@@ -1,0 +1,146 @@
+prfx: §e§lCLG §6§l>§r
+max_chest_claims: 200
+lockable_blocks:
+- Chest
+- Trapped_Chest
+- Furnace
+- Beacon
+- Dropper
+- Dispenser
+- Hopper
+right_click_blacklist:
+- Sign
+lock_only_empty_hand: false
+break_on_explosion: false
+msg:
+  you_locked_container: '%prfx% &a&lYou locked this container.'
+  added_container: '%prfx% &a&lYou added a container to an existing container.'
+  broke_container: '%prfx% &e&lYou broke a container.'
+  locked_container: '%prfx% &c&lThis container is locked by %player%.'
+  cannot_lock_container: '%prfx% &c&lThis container is not lockable.'
+  cannot_add_yourself: '%prfx% &c&lYou cannot add yourself'
+  already_added: '%prfx% &c&lThis user is already added.'
+  copied_friends: '%prfx% &a&lYou have copied this friends list.'
+  paste_friends: '%prfx% &a&lYou have pasted your friends list.'
+  no_friends_copied: '%prfx% &c&lYou need to copy a friends list first.'
+  you_cannot_claim_more: '%prfx% &c&lYou cannot claim more than &e&l%max% &c&lcontainers.'
+  no_permissions: '%prfx% §c§lYou don''t have any permissions'
+  not_a_number: '%prfx% §c§l%num% is not a number'
+  player_not_found: '%prfx% §c§lCould not find %player%'
+gui:
+  request_lock:
+    title: '&lLock this container?'
+  lock_gui:
+    title: '&lLock'
+    friends_title: '&a&lManage Friends'
+  friends_gui:
+    title: '&lFriends'
+    friend_skull_name: '&a&l%player%'
+    friend_skull_lore:
+    - ' &7> &cRight click &7 < to remove'
+  choose_player_gui:
+    title: '&lChoose Player'
+  really_unlock:
+    title: '&lConfirm Unlocking'
+  lock_settings:
+    title: '&lSettings'
+items:
+  gui_agree:
+    type: Lime_Terracotta
+    name: '&a&lYes'
+  gui_deny:
+    type: Red_Terracotta
+    name: '&c&lNo'
+  next_page:
+    name: '&a&lNext'
+    type: Lime_Stained_Glass_Pane
+  previous_page:
+    name: '&a&lPrevious'
+    type: Orange_Stained_Glass_Pane
+  add_friend:
+    name: '&a&lAdd Friend'
+    type: Cyan_Stained_Glass_Pane
+  unlock:
+    name: '&c&lUnlock'
+    type: Barrier
+  copy_friends:
+    name: '&b&lCopy Friends'
+    type: Blue_Stained_Glass_Pane
+    lore:
+    - ' '
+    - ' &7Click here to &7&ncopy &7this friends list.'
+    - ' &7You can paste it to another container.'
+  paste_friends:
+    name: '&b&lPaste Friends'
+    type: Blue_Stained_Glass_Pane
+    lore:
+    - ' '
+    - ' &7Click here to &7&npaste &7the copied list.'
+    - ' &7You can copy it from another container.'
+  lock_settings:
+    name: '&b&lSettings'
+    type: Redstone
+  back:
+    name: '&e&lBack'
+    type: Orange_Stained_Glass_Pane
+  item_extract_activated:
+    name: '&7Item Extraction'
+    type: Hopper
+    lore:
+    - '&a&lEnabled'
+    - ' '
+    - '&eHoppers placed under this block'
+    - '&ecan &e&nextract&e items.'
+    - ' '
+    - ' &7> &cClick &7< to disable'
+  item_extract_disabled:
+    name: '&7Item Extraction'
+    type: Hopper
+    lore:
+    - '&c&lDisabled'
+    - ' '
+    - '&eHoppers placed under this block'
+    - '&ecan &e&nextract&e items.'
+    - ' '
+    - ' &7> &aClick &7< to enable'
+  item_insert_activated:
+    name: '&7Item Insertion'
+    type: Hopper
+    lore:
+    - '&a&lEnabled'
+    - ' '
+    - '&eHoppers placed on this block'
+    - '&ecan &e&ninsert&e items.'
+    - ' '
+    - ' &7> &cClick &7< to disable'
+  item_insert_disabled:
+    name: '&7Item Insertion'
+    type: Hopper
+    lore:
+    - '&c&lDisabled'
+    - ' '
+    - '&eHoppers placed on this block'
+    - '&ecan &e&ninsert&e items.'
+    - ' '
+    - ' &7> &aClick &7< to enable'
+  public_enabled:
+    name: '&7Public'
+    type: Emerald
+    lore:
+    - '&a&lEnabled'
+    - ' '
+    - §eEveryone can use this block
+    - ' '
+    - ' &7> &cClick &7< to disable'
+  public_disabled:
+    name: '&7Public'
+    type: Emerald
+    lore:
+    - '&c&lDisabled'
+    - ' '
+    - §eEveryone can use this block
+    - ' '
+    - ' &7> &aClick &7< to enable'
+  gui_blank:
+    name: ' '
+    type: Gray_Stained_Glass_Pane

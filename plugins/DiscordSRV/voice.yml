@@ -18,9 +18,9 @@ Lobby channel: 796381833193324544
 # Mutes users in the lobby who have the Speak and Mute Others permissions in the lobby
 Mute users who bypass speak permissions in the lobby: false
 
-Network:
+Network: 
   # Maximum distance between players in order to be connected
-  Vertical Strength: 100
+  Vertical Strength: 40
   Horizontal Strength: 80
   # Once a player has joined a network, they can be
   # strength + falloff blocks away before being disconnected

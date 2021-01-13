@@ -1,5 +1,5 @@
-Require linked account to play:
-  Enabled: true
+Require linked account to play: 
+  Enabled: false
 
   # If you don't know what these mean, don't touch them
   #
@@ -18,7 +18,7 @@ Require linked account to play:
   # Whether or not players on the VANILLA whitelist will bypass the need to link their accounts/have a sub role
   Whitelisted players bypass check: true
   # Whether or not to let players in the VANILLA banlist be able to link their accounts
-  Check banned players: true
+  Check banned players: false
   # Whether or not players not in the VANILLA banlist will bypass the need to link their accounts/have a sub role
   Only check banned players: false
 
@@ -27,7 +27,6 @@ Require linked account to play:
   # Use {CODE} as a placeholder for the code people need to DM the bot
   # Use {INVITE} as a placeholder for the invite link people need to join the Discord server, uses DiscordInviteLink configured in config.yml
   Not linked message: "&7You must link your &9Discord &7account to play.\n\n&7Send a DM to &b{BOT}&7 in the Discord server containing just &b{CODE}&7 to link your account.\n\n&7Discord Invite » &b{INVITE}"
-  Not linked message: "&7Send &b{CODE}&7 to &b{BOT}&7 in the Discord server to link your account.\n\n&7Discord Invite » &b{INVITE}"
 
   # If enabled, players will not only need to have their accounts linked but will also be required
   # to be a member of a Discord server that the bot is also in.

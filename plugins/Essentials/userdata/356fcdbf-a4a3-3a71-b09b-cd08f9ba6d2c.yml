@@ -1,0 +1,21 @@
+lastAccountName: Amata_Milk
+timestamps:
+  login: 1610529487802
+  logout: 1610533635934
+  lastteleport: 1610301854170
+ipAddress: 8.20.101.174
+lastlocation:
+  world: world
+  x: 25.787478553412182
+  y: 77.0
+  z: -0.6003899878157735
+  yaw: 260.44604
+  pitch: 15.996013
+logoutlocation:
+  world: world
+  x: -1125.8561858632297
+  y: 64.0
+  z: 1965.4740225717674
+  yaw: 220.80019
+  pitch: -2.7000191
+money: '1297.38530000000006191'
