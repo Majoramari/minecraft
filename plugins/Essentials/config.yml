@@ -305,8 +305,6 @@ player-commands:
   - tpaccept
   - tpahere
   - tpdeny
-  - warp
-  - warp.list
   - world
   - worth
   - xmpp

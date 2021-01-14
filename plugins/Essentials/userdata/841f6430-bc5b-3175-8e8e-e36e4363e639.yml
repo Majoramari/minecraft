@@ -1,21 +1,21 @@
 lastlocation:
-  world: world_nether
-  x: 595.6999999880791
-  y: 35.0
-  z: 406.30000001192093
-  yaw: -353.69925
-  pitch: 29.700012
-lastAccountName: Aithelwulv
-timestamps:
-  login: 1610516321446
-  logout: 1610523479506
-  lastteleport: 1610387799895
-ipAddress: 94.49.242.22
-logoutlocation:
   world: world
   x: 243.30000001192093
   y: 126.0
   z: -1386.699999988079
-  yaw: -58.463886
-  pitch: 47.99999
-money: '2855.62278499999984823'
+  yaw: 319.23615
+  pitch: 5.6999173
+lastAccountName: Aithelwulv
+timestamps:
+  login: 1610594832864
+  logout: 1610593523311
+  lastteleport: 1610387799895
+ipAddress: 94.49.242.22
+logoutlocation:
+  world: world
+  x: 3.0608710142076805
+  y: 77.0
+  z: -2.3567792342242795
+  yaw: 252.79712
+  pitch: 12.899988
+money: '5137.17800999999971753'

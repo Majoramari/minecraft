@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-13 16:15:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-01-07 16:34:44 -0500"
@@ -164,6 +170,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-01-13 04:20:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-13 14:50:42 -0500"
     },
     "done": true
   },
@@ -338,6 +350,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-11 09:14:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2021-01-13 15:49:26 -0500"
     },
     "done": true
   },
@@ -1113,6 +1131,7 @@
       "minecraft:mountains": "2021-01-07 16:54:30 -0500",
       "minecraft:taiga": "2021-01-07 16:01:47 -0500",
       "minecraft:deep_cold_ocean": "2021-01-13 02:49:49 -0500",
+      "minecraft:snowy_tundra": "2021-01-13 10:17:39 -0500",
       "minecraft:taiga_hills": "2021-01-07 16:39:28 -0500",
       "minecraft:deep_frozen_ocean": "2021-01-13 02:52:21 -0500",
       "minecraft:jungle": "2021-01-08 22:48:47 -0500",
@@ -1153,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-13 15:47:28 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-01-07 16:09:18 -0500"
@@ -1180,6 +1205,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-01-07 16:16:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2021-01-13 15:46:37 -0500"
     },
     "done": true
   },
@@ -1234,6 +1265,12 @@
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2021-01-11 09:15:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-13 16:15:09 -0500"
     },
     "done": true
   },
@@ -1324,6 +1361,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2021-01-07 17:03:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-13 15:52:10 -0500"
     },
     "done": true
   },
@@ -1444,6 +1487,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-08 18:44:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-13 16:15:09 -0500"
     },
     "done": true
   },
@@ -1634,6 +1683,7 @@
       "potato": "2021-01-09 04:29:34 -0500",
       "mutton": "2021-01-08 21:39:59 -0500",
       "bread": "2021-01-09 05:14:36 -0500",
+      "rotten_flesh": "2021-01-13 16:54:51 -0500",
       "melon_slice": "2021-01-09 02:33:34 -0500",
       "beetroot": "2021-01-09 02:27:53 -0500",
       "cooked_chicken": "2021-01-08 18:33:36 -0500",
@@ -1966,6 +2016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-01-13 15:52:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-01-07 16:44:32 -0500"
@@ -2029,6 +2085,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-08 18:28:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-01-13 10:27:48 -0500"
     },
     "done": true
   },
@@ -2149,6 +2211,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2021-01-09 06:53:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2021-01-13 15:46:37 -0500"
     },
     "done": true
   },
@@ -2320,6 +2388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2021-01-13 15:49:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2021-01-08 20:28:36 -0500"
@@ -2329,6 +2403,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-01-11 09:14:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2021-01-13 12:43:49 -0500"
     },
     "done": true
   },
@@ -2356,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-13 16:15:09 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2021-01-07 16:23:37 -0500"
@@ -2371,6 +2457,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-01-08 18:30:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-01-13 15:47:28 -0500"
     },
     "done": true
   },

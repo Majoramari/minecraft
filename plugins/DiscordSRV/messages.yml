@@ -23,7 +23,7 @@
 #
 # DiscordToMinecraftAllRolesSeparator: the separator used in between roles in %allroles%
 #
-DiscordToMinecraftChatMessageFormat: "[&bDiscord &r| %toprolecolor%%toprole%&r] %name% » %message%"
+DiscordToMinecraftChatMessageFormat: "[&bDiscord&r] %name% » %message%"
 DiscordToMinecraftChatMessageFormatNoRole: "[&bDiscord&r] %name% » %message%"
 DiscordToMinecraftAllRolesSeparator: " | "
 
@@ -192,7 +192,7 @@ MinecraftPlayerJoinMessage:
     Footer:
       Text: ""
       IconUrl: ""
-    Timestamp: false
+    Timestamp: true
 #
 # Available placeholders for PlayerFirstJoin messages:
 # %message%:        join message as seen in-game
@@ -200,7 +200,7 @@ MinecraftPlayerJoinMessage:
 MinecraftPlayerFirstJoinMessage: 
   Enabled: true
   Webhook:
-    Enable: false
+    Enable: true
     AvatarUrl: "%botavatarurl%"
     Name: "%botname%"
   Content: ""
@@ -221,7 +221,7 @@ MinecraftPlayerFirstJoinMessage:
     Footer:
       Text: ""
       IconUrl: ""
-    Timestamp: false
+    Timestamp: true
 #
 # Available placeholders for PlayerLeave messages:
 # %message%:        leave message as seen in-game
@@ -250,7 +250,7 @@ MinecraftPlayerLeaveMessage:
     Footer:
       Text: ""
       IconUrl: ""
-    Timestamp: false
+    Timestamp: true
 #
 # Available placeholders for PlayerDeath messages:
 # %deathmessage%: raw death message
@@ -259,7 +259,7 @@ MinecraftPlayerLeaveMessage:
 MinecraftPlayerDeathMessage: 
   Enabled: true
   Webhook:
-    Enable: false
+    Enable: true
     AvatarUrl: "%botavatarurl%"
     Name: "%botname%"
   Content: ""
@@ -280,7 +280,7 @@ MinecraftPlayerDeathMessage:
     Footer:
       Text: ""
       IconUrl: ""
-    Timestamp: false
+    Timestamp: true
 #
 # Available placeholders for PlayerAchievement messages:
 # %achievement%: title of the achievement/advancement
@@ -289,7 +289,7 @@ MinecraftPlayerDeathMessage:
 MinecraftPlayerAchievementMessage: 
   Enabled: true
   Webhook:
-    Enable: false
+    Enable: true
     AvatarUrl: "%botavatarurl%"
     Name: "%botname%"
   Content: ""
@@ -310,7 +310,7 @@ MinecraftPlayerAchievementMessage:
     Footer:
       Text: ""
       IconUrl: ""
-    Timestamp: false
+    Timestamp: true
 
 # Channel topic updater messages
 # This is all the stuff related to automatically updating the chat or console channel's topics with server information

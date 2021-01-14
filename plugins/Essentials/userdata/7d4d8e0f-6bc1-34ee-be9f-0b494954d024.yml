@@ -1,0 +1,20 @@
+lastAccountName: LITTLE_Amari
+timestamps:
+  login: 1610549104620
+  logout: 1610549750301
+ipAddress: 41.129.108.231
+money: '0.75'
+lastlocation:
+  world: world
+  x: -409.32154130223694
+  y: 68.41999998688698
+  z: -426.20925598962003
+  yaw: -240.26584
+  pitch: 4.8960285
+logoutlocation:
+  world: world
+  x: 10.172438899885924
+  y: 77.0625
+  z: -8.467525888002687
+  yaw: -4.3488903
+  pitch: 15.9

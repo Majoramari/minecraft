@@ -27,7 +27,7 @@ options:
   # Whether prices should be rounded to 2 decimal places, or not.
   #
 
-  rounded_pricing: false
+  rounded_pricing: true
 
   #
   # Action Bar Messages only work on versions 1.9+
@@ -44,7 +44,7 @@ options:
   # How many rows the GUI will have
   # Min: 1 - Max: 6
   #
-  rows: 6
+  rows: 3
 
   #
   # Similar to the SGP Item format: (EXAMPLE)

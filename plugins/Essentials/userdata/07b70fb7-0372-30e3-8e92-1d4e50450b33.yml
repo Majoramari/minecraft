@@ -1,8 +1,8 @@
 lastAccountName: oDx17
 timestamps:
-  login: 1610165276479
-  logout: 1610165281296
-ipAddress: 37.104.208.37
+  login: 1610580910910
+  logout: 1610580920178
+ipAddress: 37.107.189.103
 lastlocation:
   world: world
   x: 8.5
@@ -13,8 +13,8 @@ lastlocation:
 logoutlocation:
   world: world
   x: 3.0
-  y: 76.0
+  y: 60.0
   z: -5.0
-  yaw: -51.149864
-  pitch: 30.749971
+  yaw: -55.049904
+  pitch: 49.500137
 money: '38.9889999999999996'
