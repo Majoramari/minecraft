@@ -1,1 +1,1 @@
-java -Xms3G -Xmx3G -Dpaper.playerconnection.keepalive=40 -jar mconety.jar nogui
+java -Xms5G -Xmx5G -Dpaper.playerconnection.keepalive=40 -jar mconety.jar nogui

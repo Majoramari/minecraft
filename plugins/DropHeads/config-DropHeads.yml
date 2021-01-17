@@ -16,10 +16,10 @@ message-beheaded-by-entity-with-item-named: '&6${KILLER}&r decapitated &6${VICTI
 message-beheaded-item-display-format: '${RARITY}[${NAME}${RARITY}]'
 
 # Whether to drop heads if not killed by a player
-drop-for-nonplayer-kills: false
+drop-for-nonplayer-kills: true
 
 # Whether to drop heads if killed by a projectile weapon
-drop-for-ranged-kills: false
+drop-for-ranged-kills: true
 
 # Whether to drop heads if last-damage-cause is not a valid entity
 drop-for-indirect-kills: false
@@ -47,7 +47,7 @@ update-on-skin-change: false
 
 # Whether to disable head item stacking (stack to 1 instead of 64)
 # Note: Currently only affects custom (non-vanilla) heads
-make-heads-unstackable: false
+make-heads-unstackable: true
 
 # Track mob spawn reasons, edits drop rates using 'spawn-cause-modifiers.txt'
 track-mob-spawns: true
@@ -67,7 +67,7 @@ drop-saddled-heads: false
 
 # Should skeletal mob heads use hollow textures on the bottom?
 # Note: This is only possible due to HD textures, which Mojang might patch
-hollow-skeletal-skulls: false
+hollow-skeletal-skulls: true
 
 # Enable plugin auto-updates (checks for new versions and head textures)
 # Note: Disable if your console shows DropHeads errors on startup
@@ -129,7 +129,7 @@ must-use:
 #  - WOOD_HOE
 
 # Drop chances are multiplied by this number for each level of looting
-looting-mutliplier: 1.01
+looting-mutliplier: 1.50
 
 # This number is added to the drop chance for each level of looting
 looting-addition: 0.0

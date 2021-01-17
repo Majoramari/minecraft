@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-01-13 16:17:49 -0500"
@@ -176,6 +182,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-01-09 15:21:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2021-01-14 17:45:40 -0500"
     },
     "done": true
   },
@@ -218,6 +230,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-08 16:30:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-01-14 17:48:56 -0500"
     },
     "done": true
   },
@@ -281,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-01-14 19:49:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2021-01-07 07:20:53 -0500"
@@ -326,6 +350,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2021-01-09 15:22:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-01-14 18:45:19 -0500"
     },
     "done": true
   },
@@ -477,6 +507,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-08 16:30:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2021-01-14 18:10:12 -0500"
     },
     "done": true
   },
@@ -732,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-07 08:01:45 -0500"
@@ -856,13 +904,23 @@
     "criteria": {
       "minecraft:skeleton": "2021-01-11 13:25:41 -0500",
       "minecraft:vindicator": "2021-01-13 16:30:21 -0500",
-      "minecraft:zombie": "2021-01-07 13:47:26 -0500"
+      "minecraft:spider": "2021-01-14 18:16:02 -0500",
+      "minecraft:creeper": "2021-01-14 18:13:34 -0500",
+      "minecraft:silverfish": "2021-01-14 17:41:08 -0500",
+      "minecraft:zombie": "2021-01-07 13:47:26 -0500",
+      "minecraft:zombie_villager": "2021-01-14 18:35:42 -0500"
     },
     "done": false
   },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-01-07 15:22:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-01-14 17:45:40 -0500"
     },
     "done": true
   },
@@ -968,6 +1026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2021-01-07 10:36:16 -0500"
@@ -995,6 +1059,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2021-01-13 15:51:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-01-14 17:45:40 -0500"
     },
     "done": true
   },
@@ -1166,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2021-01-12 12:17:00 -0500"
@@ -1211,6 +1287,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-01-07 16:02:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-01-14 17:45:40 -0500"
     },
     "done": true
   },
@@ -1466,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-01-14 18:34:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_orange_dye": "2021-01-12 12:35:33 -0500"
@@ -1592,6 +1680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-01-07 08:25:19 -0500"
@@ -1634,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2021-01-14 17:45:40 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-01-07 10:36:16 -0500"
@@ -1672,10 +1772,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2021-01-14 18:12:56 -0500",
       "minecraft:forest": "2021-01-07 07:43:16 -0500",
       "minecraft:mountains": "2021-01-07 10:26:11 -0500",
       "minecraft:taiga": "2021-01-07 06:43:55 -0500",
       "minecraft:taiga_hills": "2021-01-07 06:59:09 -0500",
+      "minecraft:deep_frozen_ocean": "2021-01-14 19:58:14 -0500",
+      "minecraft:snowy_beach": "2021-01-14 19:57:57 -0500",
       "minecraft:beach": "2021-01-07 07:10:34 -0500",
       "minecraft:river": "2021-01-07 06:54:32 -0500",
       "minecraft:wooded_mountains": "2021-01-08 07:57:41 -0500",
@@ -2030,6 +2133,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2021-01-12 12:18:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-01-14 19:49:22 -0500"
     },
     "done": true
   },

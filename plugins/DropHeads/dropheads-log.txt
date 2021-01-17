@@ -34,3 +34,10 @@
 1610580404000,mob decapitated,Skeleton,x1azr,§b[Netherite Sword§b]
 1610581825105,mob decapitated,Sheep,MajorAmari,
 1610591518602,mob decapitated,Skeleton,Aithelwulv,§b[Diamond Sword§b]
+1610643194804,mob decapitated,Zombie,Aithelwulv,§b[Diamond Sword§b]
+1610656777310,mob decapitated,Chicken,Shem,
+1610657971018,mob decapitated,Shulker,x1azr,§b[Netherite Sword§b]
+1610664802142,mob decapitated,Creeper,x1azr,§b[Netherite Sword§b]
+1610666365518,mob decapitated,Creeper,YOUSSIF123,§b[Diamond Sword§b]
+1610668933251,mob decapitated,Wither Skeleton,Aithelwulv,§b[Diamond Sword§b]
+1610669295480,mob decapitated,Wither Skeleton,,

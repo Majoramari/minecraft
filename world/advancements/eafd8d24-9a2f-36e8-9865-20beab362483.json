@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-01-14 17:33:32 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-01-07 09:10:23 -0500"
@@ -581,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2021-01-14 18:07:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2021-01-07 10:23:40 -0500"
@@ -680,6 +692,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2021-01-07 11:22:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2021-01-14 11:45:27 -0500"
     },
     "done": true
   },
@@ -999,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-01-14 20:10:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2021-01-09 07:59:56 -0500"
@@ -1122,6 +1146,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-01-07 12:26:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-01-14 20:09:50 -0500"
     },
     "done": true
   },
@@ -1263,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2021-01-14 14:36:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-01-07 10:34:52 -0500"
@@ -1332,6 +1368,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2021-01-08 19:05:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-01-14 15:19:57 -0500"
     },
     "done": true
   },
@@ -1583,10 +1625,12 @@
       "minecraft:forest": "2021-01-07 09:00:38 -0500",
       "minecraft:mountains": "2021-01-07 10:43:50 -0500",
       "minecraft:taiga": "2021-01-07 08:50:35 -0500",
+      "minecraft:desert_hills": "2021-01-14 15:05:01 -0500",
       "minecraft:giant_tree_taiga": "2021-01-13 19:22:54 -0500",
       "minecraft:deep_cold_ocean": "2021-01-08 11:43:47 -0500",
       "minecraft:snowy_tundra": "2021-01-12 15:20:26 -0500",
       "minecraft:taiga_hills": "2021-01-07 20:50:43 -0500",
+      "minecraft:desert": "2021-01-14 15:03:54 -0500",
       "minecraft:frozen_river": "2021-01-12 15:23:12 -0500",
       "minecraft:deep_frozen_ocean": "2021-01-13 14:30:24 -0500",
       "minecraft:jungle": "2021-01-07 10:51:19 -0500",
@@ -1604,6 +1648,7 @@
       "minecraft:giant_tree_taiga_hills": "2021-01-13 19:22:52 -0500",
       "minecraft:swamp": "2021-01-07 10:34:11 -0500",
       "minecraft:snowy_taiga_hills": "2021-01-12 20:54:37 -0500",
+      "minecraft:savanna": "2021-01-14 15:03:31 -0500",
       "minecraft:plains": "2021-01-07 09:02:56 -0500"
     },
     "done": false
@@ -1845,6 +1890,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-07 11:44:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-01-14 20:10:51 -0500"
     },
     "done": true
   },
@@ -2335,6 +2386,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-01-07 09:16:04 -0500",
+      "cooked_mutton": "2021-01-14 15:34:32 -0500",
       "sweet_berries": "2021-01-07 09:01:33 -0500",
       "cooked_beef": "2021-01-07 10:39:19 -0500",
       "baked_potato": "2021-01-09 14:23:35 -0500",
@@ -2370,6 +2422,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-01-08 07:28:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-01-14 20:10:51 -0500"
     },
     "done": true
   },
@@ -2772,6 +2830,12 @@
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_diamond_ore": "2021-01-07 19:32:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-01-14 20:09:50 -0500"
     },
     "done": true
   },
@@ -3441,6 +3505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-01-14 20:09:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-01-07 08:56:49 -0500"
@@ -3462,6 +3532,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2021-01-08 07:28:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-01-14 19:32:35 -0500"
     },
     "done": true
   },
@@ -3888,6 +3964,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2021-01-08 07:13:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2021-01-14 15:42:00 -0500"
     },
     "done": true
   },

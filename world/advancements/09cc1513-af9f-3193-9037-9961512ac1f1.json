@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-14 14:23:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-01-07 07:34:54 -0500"
@@ -650,10 +656,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-01-07 09:03:02 -0500",
+      "minecraft:hoglin": "2021-01-14 14:27:11 -0500",
       "minecraft:vindicator": "2021-01-12 13:18:35 -0500",
       "minecraft:spider": "2021-01-07 09:03:58 -0500",
       "minecraft:creeper": "2021-01-07 10:38:30 -0500",
       "minecraft:slime": "2021-01-07 10:36:03 -0500",
+      "minecraft:phantom": "2021-01-14 15:15:35 -0500",
       "minecraft:witch": "2021-01-08 07:29:15 -0500",
       "minecraft:ender_dragon": "2021-01-13 23:48:41 -0500",
       "minecraft:shulker": "2021-01-13 23:52:37 -0500",
@@ -669,6 +677,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-01-11 20:44:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-14 15:37:43 -0500"
     },
     "done": true
   },
@@ -1254,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-01-14 16:02:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-01-07 18:18:14 -0500"
@@ -1410,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-14 15:37:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-01-11 10:45:30 -0500"
@@ -1448,6 +1474,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-12 14:58:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-01-14 16:02:42 -0500"
     },
     "done": true
   },
@@ -1568,6 +1600,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2021-01-07 16:32:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-14 14:23:12 -0500"
     },
     "done": true
   },
@@ -1766,6 +1804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2021-01-14 15:37:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2021-01-07 16:21:05 -0500"
@@ -1829,6 +1873,12 @@
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2021-01-12 04:26:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-14 14:23:12 -0500"
     },
     "done": true
   },
@@ -2088,6 +2138,7 @@
       "salmon": "2021-01-14 00:30:28 -0500",
       "melon_slice": "2021-01-13 11:40:30 -0500",
       "cooked_chicken": "2021-01-07 15:14:56 -0500",
+      "enchanted_golden_apple": "2021-01-14 15:09:35 -0500",
       "cod": "2021-01-14 00:32:22 -0500",
       "carrot": "2021-01-12 06:34:14 -0500"
     },
@@ -3017,6 +3068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2021-01-14 14:23:12 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2021-01-12 03:08:52 -0500"
@@ -3448,6 +3505,12 @@
       "has_planks": "2021-01-12 01:22:02 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/british_shorthair.png": "2021-01-14 15:15:55 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

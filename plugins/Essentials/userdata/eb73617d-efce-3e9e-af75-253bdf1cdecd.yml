@@ -1,8 +1,8 @@
 lastAccountName: N1FNF
 timestamps:
-  login: 1610207693561
-  logout: 1610207700805
-ipAddress: 77.30.197.154
+  login: 1610725456949
+  logout: 1610725756178
+ipAddress: 77.31.247.91
 lastlocation:
   world: world
   x: -4.5
@@ -12,8 +12,9 @@ lastlocation:
   pitch: 0.0
 logoutlocation:
   world: world
-  x: 3.5
-  y: 76.0
-  z: -4.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -28.138067277427673
+  y: 64.0
+  z: 31.241147613819816
+  yaw: -282.3155
+  pitch: 13.649641
+money: '6.25'
