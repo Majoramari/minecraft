@@ -1,26 +1,9 @@
-Espada:
-  Leader: f02337a4-a99f-3a7b-b70b-6c75a5aab8e9|mtiger8
-  Locked: true
-  Level: 10
-  Xp: 3952
-  Ally: ''
-  ExpShareMode: EQUAL
-  ItemShareMode: NONE
-  ItemShareType:
-    LOOT: true
-    MINING: true
-    HERBALISM: true
-    WOODCUTTING: true
-    MISC: true
-  Members:
-  - f02337a4-a99f-3a7b-b70b-6c75a5aab8e9|mtiger8
-  - 8f2aa627-d1bc-3f01-995b-a9588d0bfdf3|Fahad
 Money:
   Leader: 841f6430-bc5b-3175-8e8e-e36e4363e639|Aithelwulv
   Password: '12345'
   Locked: true
   Level: 10
-  Xp: 959
+  Xp: 1986
   Ally: ''
   ExpShareMode: EQUAL
   ItemShareMode: NONE

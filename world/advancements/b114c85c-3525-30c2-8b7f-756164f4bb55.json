@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-01-07 08:05:28 -0500"
@@ -480,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-01-07 08:25:19 -0500"
@@ -519,6 +531,12 @@
   "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
       "has_creeper_head": "2021-01-14 18:10:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
     },
     "done": true
   },
@@ -567,6 +585,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2021-01-09 10:44:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
     },
     "done": true
   },
@@ -1188,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-01-18 12:05:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2021-01-07 13:46:30 -0500"
@@ -1221,6 +1251,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-01-07 08:02:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
     },
     "done": true
   },
@@ -1419,6 +1455,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-08 16:30:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
     },
     "done": true
   },
@@ -1776,13 +1818,16 @@
       "minecraft:forest": "2021-01-07 07:43:16 -0500",
       "minecraft:mountains": "2021-01-07 10:26:11 -0500",
       "minecraft:taiga": "2021-01-07 06:43:55 -0500",
+      "minecraft:giant_tree_taiga": "2021-01-19 16:36:34 -0500",
       "minecraft:taiga_hills": "2021-01-07 06:59:09 -0500",
       "minecraft:deep_frozen_ocean": "2021-01-14 19:58:14 -0500",
       "minecraft:snowy_beach": "2021-01-14 19:57:57 -0500",
       "minecraft:beach": "2021-01-07 07:10:34 -0500",
+      "minecraft:dark_forest": "2021-01-18 12:01:52 -0500",
       "minecraft:river": "2021-01-07 06:54:32 -0500",
       "minecraft:wooded_mountains": "2021-01-08 07:57:41 -0500",
       "minecraft:wooded_hills": "2021-01-07 07:51:18 -0500",
+      "minecraft:giant_tree_taiga_hills": "2021-01-18 12:04:42 -0500",
       "minecraft:swamp": "2021-01-07 10:36:17 -0500",
       "minecraft:plains": "2021-01-07 11:08:39 -0500"
     },
@@ -2127,6 +2172,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2021-01-07 16:02:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-01-19 16:38:56 -0500"
     },
     "done": true
   },

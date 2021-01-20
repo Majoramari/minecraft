@@ -1,7 +1,7 @@
 lastAccountName: Belle Delphine
 timestamps:
-  login: 1610735194349
-  logout: 1610737442117
+  login: 1610992850731
+  logout: 1610992870518
   lastteleport: 1610370274354
 ipAddress: 176.199.211.208
 lastlocation:
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 1.0502019
 logoutlocation:
   world: world
-  x: -363.04272820297615
-  y: 69.0
-  z: 528.4842682891318
-  yaw: 64.29773
-  pitch: 5.700059
+  x: -340.508561713039
+  y: 64.0
+  z: 501.4638927968224
+  yaw: -97.55187
+  pitch: 33.75005
 money: '243.11680000000016937'

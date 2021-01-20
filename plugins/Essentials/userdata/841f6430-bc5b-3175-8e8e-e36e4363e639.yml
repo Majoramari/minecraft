@@ -7,15 +7,15 @@ lastlocation:
   pitch: 61.35018
 lastAccountName: Aithelwulv
 timestamps:
-  login: 1610666751633
-  logout: 1610676557577
+  login: 1611015926481
+  logout: 1611016059499
   lastteleport: 1610387799895
-ipAddress: 94.49.242.22
+ipAddress: 95.219.136.218
 logoutlocation:
   world: world
-  x: 243.30000001192093
+  x: 246.77974331150523
   y: 126.0
-  z: -1386.699999988079
-  yaw: 304.09198
-  pitch: 58.35009
-money: '1639.77175999999964647'
+  z: -1385.7888459056733
+  yaw: 44.29198
+  pitch: 18.60011
+money: '1977.77675999999967147'
