@@ -1,13 +1,20 @@
 lastAccountName: HaRz2
 timestamps:
-  login: 1611161789875
-  logout: 1611161795864
+  login: 1611556938734
+  logout: 1611560129021
 ipAddress: 5.194.183.71
 logoutlocation:
   world: world
-  x: -258.30089675335967
+  x: -228.2307130906721
   y: 70.0
-  z: 677.8878846399264
-  yaw: 335.22836
-  pitch: 12.069554
-money: '0.0'
+  z: 699.642761245507
+  yaw: -34.259644
+  pitch: 8.855352
+money: '152.0885000000000013'
+lastlocation:
+  world: world_the_end
+  x: -59.247222424537696
+  y: 58.0
+  z: 25.71526310109591
+  yaw: 343.31476
+  pitch: 16.83447

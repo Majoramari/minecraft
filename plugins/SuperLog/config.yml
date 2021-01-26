@@ -1,0 +1,90 @@
+# +————————————————————————————————————————————————————+ #
+# |——————————     SUPERLOG CONFIGURATION     ——————————| #
+# |——————————————————      v1.2      ——————————————————| #
+# +————————————————————————————————————————————————————+ #
+# |                   Documentation:                   | #
+# |            http://superlog.andross.fr/             | #
+# +————————————————————————————————————————————————————+ #
+
+## Time between saving logs (async)
+## 0 will save logs instantly (use more resource)
+## If you have many players, you should save the cache a bit more often, so you'll need a smaller save-delay.
+## If you don't have many players, you can save logs less often, so you can use a greater save-delay.
+save-delay: 0
+
+## This is how the date will be displayed into logs file
+date-format: 'HH:mm:ss'
+
+## This is how the log file will be named
+logs-format: '{DAY}-{MONTH}-{YEAR}_{TYPE}.log'
+
+## This is how the log live will be received ingame
+logs-live-format: '&7&o[{TIME}][{EVENT}] {LOG}'
+
+## If the plugin should displays in console when logs are saved
+logs-in-console: true
+
+## If the plugin should displays in game when logs are saved
+logs-in-game: false
+
+## Utilities
+## GZip old logs after X days
+gzip-logs-after: 2
+
+## Delete old logs after X days
+delete-logs:
+  after: 14 
+  even-gzipped: true
+
+## Check for update (async)
+check-update: true
+
+## Alert in game when a command is used
+commands-alert:
+  list:
+    - ''
+  message: '&7&l{PLAYER}&7 used: &e{COMMAND}'
+
+## Configurable messages
+messages:
+  prefix: '&3&l[&e&lLOG&3&l] '
+  noperm: '&cYou do not have permission.'
+  logs-saved: '&7Saved {LOGS} files.'
+
+## List of events to log
+## The event names ARE case sensitive
+events:
+  AsyncPlayerChatEvent:
+    enabled: true
+    message: 'said {MESSAGE}'
+  BlockBreakEvent:
+    enabled: true
+    message: 'breaked {NAME} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
+  PlayerBucketEmptyEvent:
+    enabled: true
+    message: 'used {BUCKET} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
+  EntityPickupItemEvent:
+    enabled: true
+    message: '{TYPE} picked up {ITEM.NAME}'
+  PlayerInteractEvent:
+    enabled: true
+    message: 'right clicked {BLOCKCLICKED.NAME} at [{BLOCKCLICKED.LOCWORLD};{BLOCKCLICKED.LOCX};{BLOCKCLICKED.LOCY};{BLOCKCLICKED.LOCZ}]'
+    hand-logged:
+        - 'HAND'
+    action-logged:
+        - 'RIGHT_CLICK_BLOCK'
+    blockclicked-logged:
+        - 'STONE_BUTTON'
+        - 'OAK_BUTTON'
+  PlayerBucketFillEvent:
+    enabled: true
+    message: 'used {BUCKET} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
+  SignChangeEvent:
+    enabled: true
+    message: 'changed a sign on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
+  BlockBurnEvent:
+    enabled: true
+    message: 'a block {NAME} burned on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
+  BlockPlaceEvent:
+    enabled: true
+    message: 'placed {NAME} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'

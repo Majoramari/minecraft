@@ -1,16 +1,16 @@
 lastAccountName: LAITH_AGN
 timestamps:
-  login: 1611175923587
-  logout: 1611176698881
-ipAddress: 92.253.100.92
+  login: 1611328902034
+  logout: 1611328907054
+ipAddress: 213.139.40.39
 money: '0.0'
 logoutlocation:
   world: world
   x: -338.86250001192093
   y: 64.0
   z: 483.3000000119209
-  yaw: 77.5506
-  pitch: 43.949875
+  yaw: 46.65061
+  pitch: 11.399859
 lastlocation:
   world: world
   x: -353.67896299227175
