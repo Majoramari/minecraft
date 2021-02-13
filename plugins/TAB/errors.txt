@@ -68,3 +68,8 @@
 22.01.2021 - 01:31:39 -        at me.clip.placeholderapi.PlaceholderAPI.getRegisteredIdentifiers(PlaceholderAPI.java:223)
 22.01.2021 - 01:31:39 -        at me.neznamy.tab.platforms.bukkit.features.ExpansionDownloader$1$1.run(ExpansionDownloader.java:52)
 22.01.2021 - 01:31:39 -        at java.base/java.lang.Thread.run(Thread.java:832)
+26.01.2021 - 11:50:14 - [TAB v2.8.10] Failed to download PlaceholderAPI expansions. PlaceholderAPI version: 2.10.9
+26.01.2021 - 11:50:14 - java.lang.NullPointerException: null
+26.01.2021 - 11:50:14 -        at me.clip.placeholderapi.PlaceholderAPI.getRegisteredIdentifiers(PlaceholderAPI.java:223)
+26.01.2021 - 11:50:14 -        at me.neznamy.tab.platforms.bukkit.features.ExpansionDownloader$1$1.run(ExpansionDownloader.java:52)
+26.01.2021 - 11:50:14 -        at java.base/java.lang.Thread.run(Thread.java:832)

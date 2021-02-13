@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-01-26 07:14:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2021-01-12 09:28:58 +0100"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-01-26 07:25:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2021-01-12 09:08:21 +0100"
@@ -122,6 +134,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-13 06:43:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-01-26 07:12:55 +0100"
     },
     "done": true
   },
@@ -281,6 +299,7 @@
       "cooked_mutton": "2021-01-12 09:33:19 +0100",
       "sweet_berries": "2021-01-12 09:14:33 +0100",
       "cooked_beef": "2021-01-15 18:24:28 +0100",
+      "baked_potato": "2021-01-26 07:01:05 +0100",
       "porkchop": "2021-01-15 18:06:59 +0100",
       "cooked_chicken": "2021-01-15 18:55:38 +0100"
     },
@@ -391,6 +410,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-15 18:52:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-01-26 07:14:58 +0100"
     },
     "done": true
   },
@@ -682,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-01-26 07:14:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-01-12 09:08:21 +0100"
@@ -709,6 +740,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-01-13 06:54:05 +0100",
+      "minecraft:hoglin": "2021-01-26 07:26:23 +0100",
       "minecraft:spider": "2021-01-12 09:09:53 +0100",
       "minecraft:silverfish": "2021-01-15 18:40:51 +0100",
       "minecraft:zombie": "2021-01-13 07:08:05 +0100"
@@ -718,6 +750,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-01-13 08:06:42 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-01-26 07:25:01 +0100"
     },
     "done": true
   },
@@ -763,6 +801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-01-26 07:12:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2021-01-12 09:08:21 +0100"
@@ -790,6 +834,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-01-12 09:28:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2021-01-26 07:06:01 +0100"
     },
     "done": true
   },
@@ -946,6 +996,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2021-01-12 09:19:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-01-26 07:14:58 +0100"
     },
     "done": true
   },
@@ -1120,6 +1176,18 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-01-15 18:47:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2021-01-26 07:06:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-01-26 07:14:58 +0100"
     },
     "done": true
   },
@@ -1303,6 +1371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2021-01-26 07:06:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-01-12 09:09:26 +0100"
@@ -1351,6 +1425,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-12 09:30:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-01-26 07:16:24 +0100"
     },
     "done": true
   },
@@ -1486,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-01-26 07:25:02 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-01-12 09:51:38 +0100"
@@ -1573,6 +1659,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-01-12 09:09:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-01-26 07:12:55 +0100"
     },
     "done": true
   },

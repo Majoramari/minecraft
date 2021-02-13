@@ -1,0 +1,31 @@
+timer:
+  enabled: true
+  time: 60
+encryption:
+  type: ARGON_2
+  argon2:
+    cores: 4
+    memory: 1024
+    parallelism: 8
+  bcrypt:
+    rounds: 14
+login:
+  max_attempts: 3
+  ban:
+    enabled: true
+    time: 120
+  kick:
+    enabled: true
+  commands:
+    enabled: false
+    commands:
+    - kick %Player%
+reconnect_time:
+  enabled: true
+  time: 30
+captcha:
+  enabled: false
+  login: true
+  register: true
+title:
+  time: 5

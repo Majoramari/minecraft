@@ -1,9 +1,9 @@
 lastAccountName: x1azr
 timestamps:
-  login: 1610734547570
-  logout: 1610735019300
+  login: 1613033429785
+  logout: 1613033926843
   lastteleport: 1610372317125
-ipAddress: 37.124.218.59
+ipAddress: 37.240.1.46
 lastlocation:
   world: world
   x: -577.2521766784416
@@ -11,11 +11,11 @@ lastlocation:
   z: 675.5066080090703
   yaw: 117.142555
   pitch: 53.249893
-money: '39433.252965000000125426'
+money: '42033.252965000000125426'
 logoutlocation:
   world: world
   x: -1045.0179024026452
   y: 73.0625
   z: 1981.9706905098278
-  yaw: -0.943573
-  pitch: 3.4500504
+  yaw: 0.8564273
+  pitch: 1.6500503

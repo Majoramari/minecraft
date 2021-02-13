@@ -1,0 +1,23 @@
+#
+# Language Created By: ThatOverPowered
+#
+  
+  
+  
+Plugin:
+
+  plugin-start: "[P]&a El plugin ha sido habilitado con exito."
+  plugin-link: "[P]&a Exito al enlazar con&6 %Link%&a!"
+  plugin-update: "[P]&a El plugin tiene una nueva versión:&6 %NewVersion%&a!\n[P]&a Estás usando una versión desactulizada:&6 %Version%&a!\n[P]&a Descarga la última versión:\n[P]&6 %Path%"
+  plugin-stop: "[P]&a El plugin ha sido deshabilitado con exito."
+  plugin-prefix: "&7[&6GPack&7]"
+  
+  
+  
+Messages:
+  
+  command-config-reload: "[P]&a La configuración fue recargada con exito."
+  command-permission-error: "[P]&c No tienes permisos para ejecutar este comando!"
+  successfully-loaded: "[P]&a El &6Server-Resourcepack &afue descargado con éxito."
+  kick-deny-error: "&c¡Has sido kickeado porque no\n&cdescargaste nuestro&6 Server-Resourcepack&c!\n\n&a¡Activa los &6Resourcepacks&a en tu Server-Settings para jugar!"
+  kick-download-error: "&c¡Ha sido expulsado porque\n&6Server Resource Pack&c contiene errores!"

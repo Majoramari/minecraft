@@ -1,8 +1,8 @@
 lastAccountName: Shem
 timestamps:
-  login: 1610713871452
-  logout: 1610714432660
-ipAddress: 31.166.238.128
+  login: 1611676143473
+  logout: 1611676194337
+ipAddress: 31.166.228.144
 lastlocation:
   world: world
   x: 7.026935315436674
@@ -15,6 +15,6 @@ logoutlocation:
   x: -442.36975567722817
   y: 63.0
   z: 1014.8287698406834
-  yaw: -265.19104
+  yaw: -266.09625
   pitch: 31.233526
 money: '25.0'

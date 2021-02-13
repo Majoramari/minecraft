@@ -1,23 +1,23 @@
 lastAccountName: MajorAmari
 timestamps:
-  login: 1611587961845
-  logout: 1611589194453
-  lastteleport: 1611585898612
-ipAddress: 197.132.234.65
+  login: 1613175200052
+  logout: 1613175203305
+  lastteleport: 1612539944067
+ipAddress: 197.132.253.176
 lastlocation:
-  world: world_nether
-  x: 63.504894421399335
-  y: 82.33992148693494
-  z: 165.23743216028947
-  yaw: 276.45807
-  pitch: 13.3118515
+  world: world
+  x: -586.5
+  y: 83.5625
+  z: 686.5
+  yaw: 89.99999
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -595.7129292806079
-  y: 79.5
-  z: 690.3000000119209
-  yaw: 257.25854
-  pitch: 31.285942
-money: '32453.34313999999988125'
+  x: -586.5
+  y: 83.5625
+  z: 686.5
+  yaw: 83.73949
+  pitch: 1.3355948
+money: '13502.17918999999942185'
 afk: false
 powertools: {}
