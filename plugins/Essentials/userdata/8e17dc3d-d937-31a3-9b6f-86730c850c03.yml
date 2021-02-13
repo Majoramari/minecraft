@@ -1,13 +1,20 @@
 lastAccountName: 7xgb
 timestamps:
-  login: 1613175199555
-  logout: 1613175149207
+  login: 1613176521492
+  logout: 1613176464088
 ipAddress: 93.169.52.160
-money: '0.0'
+money: '297.599999999999989'
 lastlocation:
   world: world
-  x: -178.73761406643015
-  y: 69.0
-  z: 304.21807658761446
-  yaw: -145.07657
-  pitch: 14.60084
+  x: -235.3159860852857
+  y: 71.0
+  z: 661.1760428396666
+  yaw: 217.8086
+  pitch: -44.550423
+logoutlocation:
+  world: world
+  x: -235.3159860852857
+  y: 71.0
+  z: 661.1760428396666
+  yaw: 218.25867
+  pitch: -44.550423

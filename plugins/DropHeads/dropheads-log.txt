@@ -57,3 +57,8 @@
 1612539643066,mob decapitated,Cave Spider,MajorAmari,§b[§oCaver's Dread§b]
 1612539822570,mob decapitated,Silverfish,MajorAmari,§b[§oCaver's Dread§b]
 1613157389150,mob decapitated,Zombie,MajorAmari,
+1613175887607,mob decapitated,Drowned,abodymnms,§b[Netherite Sword§b]
+1613176133050,mob decapitated,Zombie,abodymnms,§b[Netherite Sword§b]
+1613176262455,mob decapitated,Creeper,abodymnms,§b[Netherite Sword§b]
+1613176333157,mob decapitated,Phantom,abodymnms,§b[Netherite Sword§b]
+1613176337404,mob decapitated,Phantom,abodymnms,§b[Netherite Sword§b]

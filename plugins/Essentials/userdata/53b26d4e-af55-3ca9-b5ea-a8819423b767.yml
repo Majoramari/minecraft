@@ -1,13 +1,20 @@
 lastAccountName: iiMo
 timestamps:
-  login: 1613175203196
-  logout: 1613175149208
+  login: 1613175742558
+  logout: 1613176257140
 ipAddress: 95.187.163.149
-money: '0.0'
+money: '110.3799999999999962'
 lastlocation:
   world: world
-  x: -225.30000001192093
-  y: 13.0
-  z: 252.38731345923313
-  yaw: -347.5569
-  pitch: 64.94932
+  x: -287.32921569879
+  y: 55.25220334025373
+  z: 238.23582633568606
+  yaw: 109.071594
+  pitch: -7.3508487
+logoutlocation:
+  world: world
+  x: -145.30000001192093
+  y: 69.0
+  z: 268.2002582330556
+  yaw: -130.36272
+  pitch: 31.049818
