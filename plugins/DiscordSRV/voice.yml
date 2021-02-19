@@ -5,20 +5,20 @@
 #
 
 # Whether or not to enable the voice module
-Voice enabled: true
+Voice enabled: false
 # Amount of ticks between network updates
 Tick speed: 5
 # The main category that the voice module will create/delete/move voice channels in
 # No channels other than the lobby channel (below) should be in this category
-Voice category: 796381572537647154
+Voice category: 000000000000000000
 # The lobby channel (inside the voice category) that people will be moved to
 # when they are not in range of any networks. This is also the channel people will
 # join to be connected to the proximity voice network.
-Lobby channel: 796381833193324544
+Lobby channel: 000000000000000000
 # Mutes users in the lobby who have the Speak and Mute Others permissions in the lobby
 Mute users who bypass speak permissions in the lobby: false
 
-Network: 
+Network:
   # Maximum distance between players in order to be connected
   Vertical Strength: 40
   Horizontal Strength: 80

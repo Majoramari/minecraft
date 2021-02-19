@@ -1,20 +1,20 @@
 lastAccountName: Darkussnull
 timestamps:
-  login: 1613178974707
-  logout: 1613178972050
-ipAddress: 41.129.57.135
+  login: 1613684884283
+  logout: 1613686558784
+ipAddress: 45.243.34.62
 logoutlocation:
   world: world
-  x: -672.9719767969784
-  y: 64.0
-  z: -0.326134619389331
-  yaw: -116.846466
-  pitch: 25.049969
-money: '331.77705000000027773'
+  x: 4.5
+  y: 75.0999984741211
+  z: -11.5
+  yaw: 0.0
+  pitch: 0.0
+money: '623.55440000000020958'
 lastlocation:
   world: world
-  x: -343.2965111373276
-  y: 63.0
-  z: 550.0637907377635
-  yaw: -243.60028
-  pitch: 16.050047
+  x: 1.5
+  y: 75.0
+  z: -8.5
+  yaw: 61.89061
+  pitch: 24.454338

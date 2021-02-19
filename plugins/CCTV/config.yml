@@ -1,0 +1,12 @@
+language: en
+computer_block: NETHER_BRICK_STAIRS
+allowed_to_chat: false
+autosave:
+  enabled: true
+  message: true
+  time_in_minuts: 5
+camera_head_radius: 0.35
+time_to_connect: 3
+time_to_disconnect: 3
+time_for_spot: 5
+camera_inventory_show_item_without_permissions: true

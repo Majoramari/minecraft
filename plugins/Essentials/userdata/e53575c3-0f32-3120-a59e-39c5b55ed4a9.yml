@@ -1,13 +1,20 @@
 lastAccountName: Lugwed
 timestamps:
-  login: 1613140147259
-  logout: 1613147253616
+  login: 1613737768171
+  logout: 1613745794654
 ipAddress: 86.97.244.193
 logoutlocation:
   world: world
-  x: -156.69999998807907
-  y: 57.0
-  z: 245.30000001192093
-  yaw: 124.40338
-  pitch: 15.59803
-money: '0.0'
+  x: -168.12487299476376
+  y: 63.5625
+  z: 231.63630368467986
+  yaw: 21.258654
+  pitch: 53.69056
+money: '6415.0613999999986396'
+lastlocation:
+  world: world
+  x: 248.43734479880763
+  y: 63.0
+  z: -1383.300000011921
+  yaw: -339.07715
+  pitch: 36.30945

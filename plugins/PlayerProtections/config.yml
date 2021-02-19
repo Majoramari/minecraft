@@ -1,0 +1,49 @@
+tiers:
+  iron:
+    block:
+      material: "IRON_BLOCK"
+      name: "&f&lIron Protection Core"
+      enchanted: true
+      lore:
+        - "&7Radius: %size% blocks"
+        - "&7Max members: %maxMembers%"
+        - "&7Place to claim a new land."
+    size: 10
+    maxMembers: 10
+    blockDrop: true
+  gold:
+    block:
+      material: "GOLD_BLOCK"
+      name: "&e&lGold Protection Core"
+      enchanted: true
+      lore:
+        - "&7Radius: %size% blocks"
+        - "&7Max members: %maxMembers%"
+        - "&7Place to claim a new land."
+    size: 20
+    maxMembers: 25
+    blockDrop: true
+  diamond:
+    block:
+      material: "DIAMOND_BLOCK"
+      name: "&b&lDiamond Protection Core"
+      enchanted: true
+      lore:
+        - "&7Radius: %size% blocks"
+        - "&7Max members: %maxMembers%"
+        - "&7Place to claim a new land."
+    size: 30
+    maxMembers: 50
+    blockDrop: true
+  emerald:
+    block:
+      material: "EMERALD_BLOCK"
+      name: "&a&lEmerald Protection Core"
+      enchanted: true
+      lore:
+        - "&7Radius: %size% blocks"
+        - "&7Max members: %maxMembers%"
+        - "&7Place to claim a new land."
+    size: 50
+    maxMembers: 100
+    blockDrop: true

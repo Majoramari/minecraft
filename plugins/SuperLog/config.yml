@@ -10,7 +10,7 @@
 ## 0 will save logs instantly (use more resource)
 ## If you have many players, you should save the cache a bit more often, so you'll need a smaller save-delay.
 ## If you don't have many players, you can save logs less often, so you can use a greater save-delay.
-save-delay: 0
+save-delay: 300
 
 ## This is how the date will be displayed into logs file
 date-format: 'HH:mm:ss'
@@ -33,7 +33,7 @@ gzip-logs-after: 2
 
 ## Delete old logs after X days
 delete-logs:
-  after: 14 
+  after: 7
   even-gzipped: true
 
 ## Check for update (async)
@@ -42,7 +42,8 @@ check-update: true
 ## Alert in game when a command is used
 commands-alert:
   list:
-    - ''
+    - '/gamemode'
+    - '/god'
   message: '&7&l{PLAYER}&7 used: &e{COMMAND}'
 
 ## Configurable messages
@@ -57,34 +58,3 @@ events:
   AsyncPlayerChatEvent:
     enabled: true
     message: 'said {MESSAGE}'
-  BlockBreakEvent:
-    enabled: true
-    message: 'breaked {NAME} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
-  PlayerBucketEmptyEvent:
-    enabled: true
-    message: 'used {BUCKET} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
-  EntityPickupItemEvent:
-    enabled: true
-    message: '{TYPE} picked up {ITEM.NAME}'
-  PlayerInteractEvent:
-    enabled: true
-    message: 'right clicked {BLOCKCLICKED.NAME} at [{BLOCKCLICKED.LOCWORLD};{BLOCKCLICKED.LOCX};{BLOCKCLICKED.LOCY};{BLOCKCLICKED.LOCZ}]'
-    hand-logged:
-        - 'HAND'
-    action-logged:
-        - 'RIGHT_CLICK_BLOCK'
-    blockclicked-logged:
-        - 'STONE_BUTTON'
-        - 'OAK_BUTTON'
-  PlayerBucketFillEvent:
-    enabled: true
-    message: 'used {BUCKET} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
-  SignChangeEvent:
-    enabled: true
-    message: 'changed a sign on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
-  BlockBurnEvent:
-    enabled: true
-    message: 'a block {NAME} burned on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'
-  BlockPlaceEvent:
-    enabled: true
-    message: 'placed {NAME} on [{LOCWORLD};{LOCX};{LOCY};{LOCZ}]'

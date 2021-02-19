@@ -1150,44 +1150,44 @@ EntityList:
   930-PIGLIN_BRUTE: Piglin Brute
   914-PLAYER: Игрок
 EnchantList:
-  Fire protection: Огнеупорность
-  Sharpness: Острота
-  Flame: Горящая стрела
   Unknown: Unknown
-  Aqua affinity: Родство с водой
   Punch: Отбрасывание
   Loyalty: Верность
-  Depth strider: Подводная ходьба
-  Vanishing curse: Vanishing curse
-  Unbreaking: Прочность
-  Knockback: Отдача
-  Luck of the sea: Морская удача
-  Binding curse: Binding curse
-  Fortune: Удача
-  Protection: Защита
   Efficiency: Эффективность
-  Mending: Починка
   Frost walker: Ходьба по воде
-  Lure: Приманка
-  Looting: Добыча
+  Channeling: Громовержец
+  Thorns: Шипы
+  Silk touch: Шёлковое касание
+  Projectile protection: Защита от снарядов
+  Power: Сила
   Piercing: Пронзающая стрела
   Blast protection: Взрывоустойчивость
-  Smite: Небесная кара
-  Multishot: Тройной выстрел
-  Fire aspect: Заговор огня
-  Channeling: Громовержец
   Sweeping: Разящий клинок
-  Thorns: Шипы
-  Bane of arthropods: Бич членистоногих
   Respiration: Подводное дыхание
+  Binding curse: Binding curse
+  Smite: Небесная кара
+  Fire aspect: Заговор огня
+  Vanishing curse: Vanishing curse
+  Mending: Починка
   Riptide: Тягун
-  Silk touch: Шёлковое касание
-  Quick charge: Быстрая перезарядка
-  Projectile protection: Защита от снарядов
+  Bane of arthropods: Бич членистоногих
   Impaling: Пронзатель
+  Flame: Горящая стрела
+  Aqua affinity: Родство с водой
+  Depth strider: Подводная ходьба
+  Lure: Приманка
   Feather falling: Невесомость
-  Power: Сила
+  Fire protection: Огнеупорность
+  Sharpness: Острота
+  Unbreaking: Прочность
+  Luck of the sea: Морская удача
+  Fortune: Удача
+  Multishot: Тройной выстрел
+  Quick charge: Быстрая перезарядка
   Infinity: Бессконечность
+  Knockback: Отдача
+  Protection: Защита
+  Looting: Добыча
 ColorList:
   0-white: '&fБелый'
   1-orange: '&6Оражевый'

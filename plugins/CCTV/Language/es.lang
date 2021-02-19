@@ -1,0 +1,106 @@
+no_perms: &c¡No tienes el permiso para hacer eso!
+player_not_found: &c¿Estas seguro de que ese jugador ha jugado aquí?
+player_already_added: &c¡El jugador ya estaba añadido!
+player_added: &a¡Jugador añadido!
+player_removed: &c¡Jugador removido!
+player_not_in_list: &c¡Ese jugador no existe en esta lista!
+to_many_pages: &c¡No hay tantas páginas!
+click_next_page: &aClick para ir a la siguiente pagina
+click_previous_page: &aClick para volver a la pagina anterior
+wrong_syntax: &c¡Hay algo mal con la sintaxis de ese comando!
+only_owner: &c¡Esto no es tuyo! ¡Solo puedes cambiar tus propias camaras!
+list: "&6- &7%ID%"
+list_admin: "&6- (%Player%) &7%ID%"
+max_rotation: &c¡Limite de rotación alcanzado!
+no_next_camera: &c¡No hay más camaras!
+no_prev_camera: "&c¡No hay ninguna cámara previa!"
+switching_not_possible: &c¡Cambiar de camara no es posible ahora!
+camera_create: &a¡Una cámara ha sido creada!
+camera_delete: &c¡Una cámara ha sido eliminada!
+camera_not_found: &c¡Cámara no encontrada!
+camera_connecting: &aConectando...
+camera_disabled: &c¡Cámara fuera de linea!
+camera_is_disabled: &a¡La cámara &2%CameraID%&a ahora esta &cdeshabilitada&a!
+camera_is_enabled: &a¡La cámara &2%CameraID%&a ahora esta &2habilitada&a!
+camera_offline_override: '&cNOTA: ¡Esta cámara esta fuera de linea! ¡Puedes verla porque tienes los permisos!'
+camera_already_disabled: &c¡Esta cámara ya esta deshabilitada!
+camera_already_enabled: &c¡Esta cámara ya esta habilitada!
+camera_moved: &a¡Cámara movida a tu ubicación!
+camera_change_no_perms: &c¡Solo puedes cambiar tu propia cámara!
+camera_player_already_owner: &c¡Ese jugador ya es el propietario de esta cámara!
+camera_already_exist: &c¡Esta cámara ya existe!
+camera_view_count: &a¡Ahora mismo hay &2%Count%&a jugadores mirando a través de la cámara &2%CameraID%&a!
+camera_id: '&eID de la Cámara: %CameraID%'
+camera_renamed_to: &a¡Cámara renombrada a '%CameraID%'!
+camera_owner_set_to: &6¡El nuevo propietario es &a%Player%&6!
+group_no_cameras_added: &c¡Este grupo no tiene ninguna cámara añadida!
+group_already_exist: &c¡Este grupo ya existe!
+group_not_found: &c¡Grupo no encontrado!
+group_not_exist: &c¡Ese grupo no existe!
+group_camera_already_added: &c¡La cámara ya hace parte de este grupo!
+group_camera_added: &a¡Cámara añadida al grupo!
+group_or_camera_not_exist: &c¡Esa cámara o grupo no existe!
+group_delete_camera: &a¡Cámara removida!
+group_contains_not_camera: &c¡Este grupo no contiene una cámara con ese ID!
+group_set_to_computer: &a¡Grupo asignado a este computador!
+group_removed_from_computer: &a¡Grupo removido de este computador!
+group_delete: &a¡Grupo eliminado!
+group_create: &a¡Grupo creado!
+group_only_change_your_own: &c¡Solo puedes modificar tus propios grupos!
+group_player_already_owner: &c¡Ese jugador ya es el propietario de este grupo!
+group_id: '&eID del Grupo: %GroupID%'
+group_owner_set_to: &6¡El nuevo propietario es &a%Player%&6!
+group_renamed_to: &a¡Grupo renombrado a '%GroupID%'!
+computer_not_allowed: &c¡No tienes permitido ver esas camaras en este computador!
+computer_no_group_set: &c¡Ese bloque no tenia grupo asignado!
+computer_create: &a¡Computadora creada!
+computer_create_look_at_stair: &c¡Debes estar mirando a un %Block% para crear una computadora!
+computer_not_stair: &cEste bloque no es un(a) %block%
+computer_exist: &c¡Este bloque ya es una computadora!
+computer_not_exist: &c¡Esta computadora no existe!
+computer_delete: &c¡Computadora eliminada!
+computer_not_found: &c¡Computadora no encontrada!
+computer_change_no_perms: &c¡No puedes editar las computadoras de otros jugadores!
+computer_only_owner_change_owner_no_perm: &c&c¡Solo el propietario de este computadora puede cambiar quien es el propietario!
+computer_owner_set: &a¡Propietario asignado!
+computer_id: '&eID de la computadora: %ComputerID%'
+camera_disconnecting: &cDesconectando...
+camera_deleted_because_bugged: "&c¡Lo sentimos, pero esta cámara estaba bugeada, así que fue removida!"
+gui_camera_settings: "&eAjustes"
+gui_camera_delete: "&eEliminar la cámara %CameraID%"
+gui_computer_default: "&eCCTV (Página: %page%)"
+gui_computer_options: "&eOpciones"
+gui_computer_setgroup: "&eAsignar el grupo de Cámara (Página: %page%)"
+gui_computer_removeplayer: "&cRemover Jugador (Página: %page%)"
+gui_computer_default_item_option: "&6Opciones"
+gui_computer_default_item_next_page: "&8Página Siguiente"
+gui_computer_default_item_prev_page: "&8Página Anterior"
+gui_computer_default_item_exit: "&4Salir"
+gui_computer_default_item_back: "&8Volver"
+gui_computer_options_setcameragroup: "&aEstablecer Grupo de Cámara"
+gui_computer_options_addplayer: "&aAñadir Jugador"
+gui_computer_options_removeplayer: "&cRemover Jugador"
+gui_camera_delete_item_cancel: "&cCancelar"
+gui_camera_delete_item_delete: "&2Borrar"
+item_camera_view_option: "&eOpciones"
+item_camera_view_rotate_left: "&6Rotar hacia la Izquierda"
+item_camera_view_rotate_right: "&6Rotar hacia la Derecha"
+item_camera_view_group_prev: "&bCámara Anterior"
+item_camera_view_group_next: "&bCámara Siguiente"
+item_camera_view_exit: "&4Salir"
+item_camera_view_options_nightvision_off: "&6Visión Nocturna: &4Apagada"
+item_camera_view_options_nightvision_on: "&6Visión Nocturna: &aEncendida"
+item_camera_view_options_zoom_off: "&6Enfoque: &4Apagado"
+item_camera_view_options_zoom: "&6Enfoque: &ax%level%"
+item_camera_view_options_back: "&8Volver"
+item_camera_view_options_spot: "&6Observando"
+chat_set_name_to_add: "&a¡Añade el nombre del jugador el cual quisieras añadir!"
+chat_type_exit: "&aEscribe 'exit' para terminar con la adición de jugadores."
+list_search: "&eEstos son los resultados para %search% %value%"
+list_no_result: "&c¡No pudimos encontrar ningún resultado para %search% %value%!"
+camera_target_reached_limit: "¡Este jugador ha alcanzado el limite de ponre cámaras!"
+camera_reached_limit: "&c¡Has alcanzado el limite de poner cámaras!"
+group_target_reached_limit: "¡Este jugador ha alcanzado el limite de crear grupos!"
+group_reached_limit: "&c¡Has alcanzado el limite de crear grupos!"
+computer_target_reached_limit: "¡Este jugador ha alcanzado el limite de poner computadoras!"
+computer_reached_limit: "&c¡Has alcanzado el limite de poner computadoras!"

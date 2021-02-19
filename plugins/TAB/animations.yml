@@ -41,8 +41,8 @@ animations:
   playername:
     change-interval: 600
     texts:
-      - "&3&l%player_name%&7&l's stats"
-      - "&b&l%player_name%&7&l's stats"
+      - "&3&l%player%&7&l's stats"
+      - "&b&l%player%&7&l's stats"
   players:
     change-interval: 100
     texts:

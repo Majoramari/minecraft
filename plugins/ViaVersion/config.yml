@@ -12,7 +12,7 @@
 # Should ViaVersion check for updates?
 checkforupdates: true
 # Send the supported versions with the Status (Ping) response packet
-send-supported-versions: truncate
+send-supported-versions: false
 # Block specific Minecraft protocols that ViaVersion allows
 # List of all Minecraft protocol versions: http://wiki.vg/Protocol_version_numbers or use a generator: https://via.krusic22.com
 block-protocols: []

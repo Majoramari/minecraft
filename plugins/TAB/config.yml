@@ -59,7 +59,7 @@ group-sorting-priority-list:
 
 Groups:
   Owner:
-    tabprefix: "&7[&e%player_health_rounded%&4❤&7] &5&l"
+    tabprefix: "&7[&e%health%&4❤&7] &5&l"
     tagprefix: "&b&l[&4&dFounder&b&l] &d"
   Admin:
     tabprefix: "&0&l[&4&lAdmin&0&l] &1"
@@ -73,7 +73,7 @@ Groups:
     footer:
       - "applied to a group"
   default:
-    tabprefix: "&7[&e%player_health_rounded%&4❤&7] "
+    tabprefix: "&7[&e%health%&4❤&7] "
 
       
   #default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting

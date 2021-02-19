@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "ip": "5.156.158.26",
+    "created": "2021-02-17 10:44:04 +0100",
+    "source": "§7[§2Member§7] §4abodymnms§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "ip": "45.243.13.121",
+    "created": "2021-02-14 08:15:06 +0100",
+    "source": "§7[§2Member§7] abodymnms§r",
+    "expires": "forever",
+    "reason": "The Ban Hammer has spoken!"
+  }
+]

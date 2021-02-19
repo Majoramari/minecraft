@@ -1150,44 +1150,44 @@ EntityList:
   930-PIGLIN_BRUTE: Piglin Brute
   914-PLAYER: Player
 EnchantList:
-  Fire protection: Fire protection
-  Sharpness: Sharpness
-  Flame: Flame
   Unknown: Unknown
-  Aqua affinity: Aqua affinity
   Punch: Punch
   Loyalty: Loyalty
-  Depth strider: Depth strider
-  Vanishing curse: Vanishing curse
-  Unbreaking: Unbreaking
-  Knockback: 击退
-  Luck of the sea: Luck of the sea
-  Binding curse: Binding curse
-  Fortune: Fortune
-  Protection: Protection
   Efficiency: Efficiency
-  Mending: 经验修补
   Frost walker: Frost walker
-  Lure: 饵钓
-  Looting: Looting
+  Channeling: Channeling
+  Thorns: 荆棘
+  Silk touch: Silk touch
+  Projectile protection: Projectile protection
+  Power: Power
   Piercing: Piercing
   Blast protection: Blast protection
-  Smite: Smite
-  Multishot: Multishot
-  Fire aspect: Fire aspect
-  Channeling: Channeling
   Sweeping: Sweeping
-  Thorns: 荆棘
-  Bane of arthropods: Bane of arthropods
   Respiration: Respiration
+  Binding curse: Binding curse
+  Smite: Smite
+  Fire aspect: Fire aspect
+  Vanishing curse: Vanishing curse
+  Mending: 经验修补
   Riptide: Riptide
-  Silk touch: Silk touch
-  Quick charge: Quick charge
-  Projectile protection: Projectile protection
+  Bane of arthropods: Bane of arthropods
   Impaling: Impaling
+  Flame: Flame
+  Aqua affinity: Aqua affinity
+  Depth strider: Depth strider
+  Lure: 饵钓
   Feather falling: Feather falling
-  Power: Power
+  Fire protection: Fire protection
+  Sharpness: Sharpness
+  Unbreaking: Unbreaking
+  Luck of the sea: Luck of the sea
+  Fortune: Fortune
+  Multishot: Multishot
+  Quick charge: Quick charge
   Infinity: Infinity
+  Knockback: 击退
+  Protection: Protection
+  Looting: Looting
 ColorList:
   0-white: '&fWhite'
   1-orange: '&6Orange'

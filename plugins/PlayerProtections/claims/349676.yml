@@ -1,0 +1,18 @@
+id: 349676
+owner: 09cc1513-af9f-3193-9037-9961512ac1f1=null
+members: '{}'
+tier: diamond
+coreLocation:
+  world: world
+  x: -588
+  y: 72
+  z: 694
+settings:
+  buildAllowed: false
+  interactAllowed: false
+  cropsDestroyingAllowed: false
+  hostileMobsKillingAllowed: false
+  passiveMobsKillingAllowed: false
+  tntAllowed: false
+  pvpAllowed: false
+  teleportAllowed: false
